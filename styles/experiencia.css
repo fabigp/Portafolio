@@ -68,3 +68,15 @@
     max-width: 200px;
     border-radius: 30px;
 }
+
+.contenedor-entrada{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    gap: 2.5em;
+    max-width: 1000px;
+}
+
+.blog-tittle{
+    font-size: 1.4em;
+}
